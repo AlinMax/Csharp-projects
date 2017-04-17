@@ -1,8 +1,0 @@
-E:\Code\C#\Alarm\bin\Release\Alarm.exe.config
-E:\Code\C#\Alarm\bin\Release\Alarm.exe
-E:\Code\C#\Alarm\obj\Release\Alarm.csprojResolveAssemblyReference.cache
-E:\Code\C#\Alarm\obj\Release\Alarm.Calculate.resources
-E:\Code\C#\Alarm\obj\Release\Alarm.MainForm.resources
-E:\Code\C#\Alarm\obj\Release\Alarm.csproj.GenerateResource.Cache
-E:\Code\C#\Alarm\obj\Release\Alarm.exe
-E:\Code\C#\Alarm\obj\Release\Alarm.Settings.resources
