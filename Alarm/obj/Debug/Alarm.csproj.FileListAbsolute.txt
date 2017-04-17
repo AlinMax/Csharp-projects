@@ -1,0 +1,9 @@
+E:\Code\C#\Alarm\bin\Debug\Alarm.exe.config
+E:\Code\C#\Alarm\bin\Debug\Alarm.exe
+E:\Code\C#\Alarm\bin\Debug\Alarm.pdb
+E:\Code\C#\Alarm\obj\Debug\Alarm.csprojResolveAssemblyReference.cache
+E:\Code\C#\Alarm\obj\Debug\Alarm.Calculate.resources
+E:\Code\C#\Alarm\obj\Debug\Alarm.MainForm.resources
+E:\Code\C#\Alarm\obj\Debug\Alarm.csproj.GenerateResource.Cache
+E:\Code\C#\Alarm\obj\Debug\Alarm.exe
+E:\Code\C#\Alarm\obj\Debug\Alarm.pdb
